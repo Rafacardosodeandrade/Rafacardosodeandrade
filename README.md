@@ -1,16 +1,13 @@
-## Hi there 👋
+# Rafael Andrade
 
-<!--
-**Rafacardosodeandrade/Rafacardosodeandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Running a home services operation in DFW and automating it 
+from the ground up! CRM, lead response, local acquisition, 
+field ops.
 
-Here are some ideas to get you started:
+Using that as the base to build a framework for AI adoption 
+in small businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Background in enterprise data (Snowflake, Databricks).  
+Now working at a different scale, on purpose.
+
+PT/EN · Dallas–Fort Worth
